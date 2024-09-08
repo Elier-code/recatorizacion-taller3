@@ -1,0 +1,15 @@
+body{
+    background-color: #f0f0f0;
+}
+form{
+    margin: auto;
+    max-width: 500px;
+    margin-top: 50px;
+    padding: 10px;
+    background-color: #d0d0d0;
+
+}
+input{
+    background-color: #f0f0f0;
+    border: 1px solid ;
+}
